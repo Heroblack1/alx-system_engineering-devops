@@ -18,4 +18,4 @@ README.md-Create a script that prints hello user, where user is the current Linu
 
 
 POWER and DIVIDE are environment variables
-
+10-love_exponent_breath-Write a script that displays the result of BREATH to the power LOVE
