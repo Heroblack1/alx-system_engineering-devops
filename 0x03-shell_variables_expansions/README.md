@@ -5,3 +5,4 @@
 Name: ls
 
 Value: rm *
+README.md-Create a script that prints hello user, where user is the current Linux user.
